@@ -1,5 +1,7 @@
 package com.urotaxi.config;
 
-public class UrotaxiWebMvcConfigurer implements MVCConfi {
+import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
+
+public class UrotaxiWebMvcConfigurer implements WebMvcConfigurer {
 
 }
